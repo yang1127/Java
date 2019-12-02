@@ -40,7 +40,6 @@ public class Student {
 
 }
 
-
 class Undergraduate extends Student {
 		String department;
 		String major;
