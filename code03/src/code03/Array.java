@@ -158,5 +158,4 @@ public class Array<E> {
             newData[i] = data[i];
         data = newData;
     }
-
 }
