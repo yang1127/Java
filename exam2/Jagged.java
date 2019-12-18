@@ -19,5 +19,6 @@ public class Jagged {
 	    	
 	    	System. out.println();
 	    }
+
 	}
 }
