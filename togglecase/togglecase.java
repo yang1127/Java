@@ -25,4 +25,5 @@ public class togglecase {
 		System.out.print(c[i]);
 		}
 	}
+
 }
